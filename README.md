@@ -1,6 +1,6 @@
 # Rosalie Boulard
 
-> _Don't wait for changes to happen__
+> _Don't wait for changes to happen_
 
 //picture//
 
@@ -9,7 +9,7 @@
 |Question           | Answers    |
 |------------------:|------------|
 |Birthday           | 09/03/1994 |
-|Favorite color     | Red        |
+|Favorite color     | `#DE0000`  |
 |Favorite food      | Phô        |
 |Pineapple on pizza | &#x2611;   |
 
