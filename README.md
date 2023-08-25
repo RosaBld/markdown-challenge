@@ -4,8 +4,10 @@
 
 //picture//
 
-## "Me, in one sentence"
+## I don't look like it, but I'm friendly. Just a little bit shy
 
+|Question           | Answers    |
+|------------------:|------------|
 |Birthday           | 09/03/1994 |
 |Favorite color     | Red        |
 |Favorite food      | Phô        |
