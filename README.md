@@ -9,7 +9,7 @@
 |Question           | Answers    |
 |------------------:|------------|
 |Birthday           | 09/03/1994 |
-|Favorite color     | `#DE0000`  |
+|Favorite color     | Red	 |
 |Favorite food      | Phô        |
 |Pineapple on pizza | &#x2611;   |
 
@@ -50,6 +50,6 @@ What you need to know is that it was a Sunday, during the Communions in May. We 
 The story where a drunk doctor on call wanted to stitch me up.
 
 
-<< [Previous](https://--) || BOULARD Rosalie || [Next](https://--)
+<< [Previous](https://github.com/lbeauloi/markdown-challenge) || BOULARD Rosalie || [Next](https://github.com/LidwinePrior/markdown-challenge)
 
 
