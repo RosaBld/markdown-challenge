@@ -2,7 +2,7 @@
 
 > _Don't wait for changes to happen_
 
-//picture//
+![pic of myself](https://github.com/RosaBld/markdown-challenge/blob/main/IMG_20220317_150527.jpg)
 
 ## I don't look like it, but I'm friendly. Just a little bit shy
 
