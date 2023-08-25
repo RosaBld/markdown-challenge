@@ -13,7 +13,8 @@
 |Favorite food      | Phô        |
 |Pineapple on pizza | &#x2611;   |
 
-### Hobbies
+<details>
+### <summary>Hobbies</summary>
 
 - Movies
 	* Horror movies
@@ -33,6 +34,7 @@
 	* 80's
 - Piano
 	* Classic genre
+</details>
 
 #### You can always count on me when ...
 
